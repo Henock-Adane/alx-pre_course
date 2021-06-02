@@ -1,2 +1,6 @@
 # ALX-pre_course
-This is the first github project prepared by [alx <a href="https://imgbb.com/"><img src="https://i.ibb.co/Kcg0R6x/alx.png" alt="alx" border="0"></a>](https://www.alxafrica.com/ "alx") for a *full stack engineer* _emphasize_
+<<<<<<< HEAD
+This is the first github project prepared by <a href="https://imgbb.com/"><img src="https://i.ibb.co/Kcg0R6x/alx.png" alt="alx" border="0"></a>](https://www.alxafrica.com/ "alx") for a *full stack engineer* _emphasize_
+=======
+This is the first github project prepared by <a href="https://imgbb.com/"><img src="https://i.ibb.co/Kcg0R6x/alx.png" alt="alx" border="0"></a>(https://www.alxafrica.com/ "alx") for a *full stack engineer* _emphasize_
+>>>>>>> origin/master
